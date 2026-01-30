@@ -1,1 +1,0 @@
-# percepcao-computacional
