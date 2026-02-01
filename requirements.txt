@@ -7,3 +7,5 @@ pandas==2.3.3
 scikit-learn==1.6.1
 resampy==0.4.3
 seaborn==0.13.2
+tensorflow==2.20.0
+scikeras-0.13.0
