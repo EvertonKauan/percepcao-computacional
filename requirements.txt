@@ -1,11 +1,11 @@
 kaggle==1.7.4.5
 matplotlib==3.9.4
 librosa==0.11.0
-numpy==2.0.2
+numpy>=2.0.2,<2.4
 python-dotenv
 pandas==2.3.3
 scikit-learn==1.6.1
 resampy==0.4.3
 seaborn==0.13.2
 tensorflow==2.20.0
-scikeras-0.13.0
+scikeras==0.13.0
