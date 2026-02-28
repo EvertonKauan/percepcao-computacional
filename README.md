@@ -70,3 +70,9 @@ pip install -r requirements.txt
 
 ```
 ---
+
+* ** Para instalar o tensorflow e usar com a GPU:**
+
+```bash
+pip install "tensorflow[and-cuda]"
+```

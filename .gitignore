@@ -4,6 +4,9 @@ data/
 *.wav
 *.mp3
 
+# Env
+.env
+
 # Ambiente Python
 venv/
 .venv/
